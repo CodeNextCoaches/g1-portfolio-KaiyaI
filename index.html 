@@ -6,7 +6,8 @@
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   </head>
-  <body background="me.jpg">
+  <body background="me.jpg" background-no repeat>
+
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">More about me</a>
@@ -16,7 +17,7 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Personal life<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="file:///Users/student/Desktop/g1-portfolio-KaiyaI/Personal%20life.html">Personal life<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">My Mission</a>
@@ -28,7 +29,7 @@
   </div>
 </nav>
 
-<center><h1> I'm Kaiya Idlett. Student and Activist. </h1></center>
+<center><h1>Kaiya A. Idlett. Student and Activist. </h1></center>
 
 
   	<ul class="nav nav-pills">
